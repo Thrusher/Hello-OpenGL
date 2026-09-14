@@ -1,0 +1,24 @@
+# CMake
+build/
+CMakeCache.txt
+CMakeFiles/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Compiled objects
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+
+# Logs and temporary files
+*.log
+*.tmp
